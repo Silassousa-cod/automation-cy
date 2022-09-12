@@ -1,0 +1,14 @@
+{
+  "name": "automation-cy",
+  "version": "1.0.0",
+  "description": "automação com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Silas Sousa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
